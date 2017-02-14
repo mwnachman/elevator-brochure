@@ -1,0 +1,26 @@
+.models-section {
+  background-color: #FDFDFD;
+  margin-top: -25px;
+  display: block;
+  height: 610px;
+  min-width: 940px;
+}
+
+.models-header {
+  font-weight: 200;
+  color: #505050;
+  text-align: center;
+}
+
+.models-top-header {
+  font-size: 30px;
+  padding-top: 50px;
+  margin-bottom: -15px;
+}
+
+.models-lower-header {
+  font-size: 20px;
+}
+
+
+

@@ -1,0 +1,13 @@
+.products-page {
+  display: block;
+  min-height: 850px;
+}
+
+.prod-text {
+  position: absolute;
+  margin-top: 300px;
+  font-size: 40px;
+  width: 100%;
+  text-align: center;
+  height: 700px;
+}

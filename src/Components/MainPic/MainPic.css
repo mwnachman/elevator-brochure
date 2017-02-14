@@ -1,0 +1,39 @@
+.main-pic-section {
+  display: block;
+}
+
+img {
+  width: 100%;
+  z-index: -1;
+  height: auto;
+  min-height: 450px;
+}
+
+.text-box {
+  position: absolute;
+  text-align: right;
+  padding-left: 20px;
+  padding-right: 20px;
+  top: 190px;
+  left: 75px;
+  background-color: rgba(3, 3, 29, .7);
+}
+
+.safety-mod-text {
+  color: #FFF;
+  font-size: 26px;
+  font-weight: 200;
+}
+
+.bold-safety {
+  font-weight: 600;
+}
+
+.view-prods-text {
+  font-size: 18px;
+  color: #00E8FF;
+  font-style: italic;
+  padding-right: 10px;
+  margin-top: -20px;
+  padding-bottom: 10px;
+}

@@ -1,0 +1,47 @@
+.navbar {
+  width: 100%;
+  height: 190px;
+  position: absolute;
+  display: inline-block;
+  background-color: #000;
+}
+
+.navbar-grad {
+  height: 190px;
+  background: -webkit-linear-gradient(top,rgba(0, 9, 50, 0),rgba(0, 9, 50, 1)); /*Safari 5.1-6*/
+  background: -o-linear-gradient(top,rgba(0, 9, 50,0),rgba(0, 9, 50,1)); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(top,rgba(0, 9, 50,0),rgba(0, 9, 50,1)); /*Fx 3.6-15*/
+  background: linear-gradient(to top, rgba(0, 9, 50, 0), rgba(0, 9, 50,1)); /*Standard*/
+}
+
+.nav-bar-text {
+  padding-top: 25px;
+}
+
+.co-name {
+  float: left;
+  font-size: 25px;
+  text-decoration: none;
+  color: #FFF;
+  margin-left: 15px;
+}
+
+.co-name-1 {
+  font-weight: 600;
+}
+
+.co-name-2 {
+  color: #F6F6F6;
+}
+
+.main-nav-div {
+  float: right;
+  display: inline;
+}
+
+.main-nav {
+  text-decoration: none;
+  font-size: 16px;
+  color: #FFF;
+  margin-right: 30px;
+}

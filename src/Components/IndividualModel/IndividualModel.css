@@ -1,0 +1,47 @@
+.elevator-model-div {
+  display: inline-block;
+  padding: 20px;
+  width: 25%;
+  margin-left: 35px;
+} 
+
+.interior-model-div {
+  width: 235px;
+  margin-left: 20px;
+}
+
+.indiv-elev-title {
+  font-weight: 200;
+  font-size: 21px;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-weight: 200;
+  font-size: 15px;
+}
+
+.elevator-type-button {
+  background-color: #0C4366;
+  width: 200px;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.capacity {
+  margin-top: 20px;
+}
+
+.elevator-type {
+  color: #FFF;
+  font-size: 14px;
+  text-decoration: none;
+  font-weight: 600;
+} 
+
+.horizontal-line {
+  height: 0px;
+  border-top: 1px solid #E7E7E7;
+}
